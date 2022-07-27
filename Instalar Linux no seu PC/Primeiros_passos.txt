@@ -1,0 +1,16 @@
+Primeiramente voçe deve fazer o download do sistema linux que voce
+deseja instalar. Minha recomendaçao é o ubuntu. Ele é bem tranquilo
+para instalar e bem intuitivo na hora de mexer. 
+O link é este para download:https://ubuntu.com/download/desktop.
+Apos o primeiro passo, faça um pendrive bootavel. O rufus é bem 
+tranquilo para se fazer este trabalho. 
+O link de dowload rufus: https://rufus.ie/pt_BR/.
+Utilise um pen drive de no minimo 8 GB paragravar a imagem ISO 
+do ubuntu dentro do rufus. Configure o seu pc para iniciar o boot
+e instlar o sistema ubuntu na sua maquina. Voce pode conferir como
+sera o sistema operacional, antes de instala-lo em seu computador.
+Quando quiser voce ira iniciar o processo de instalacao definitiva
+do sistema ubuntu. A partir da instalacao, voce iniciara as 
+configuracoes inicias como; idioma e localidade. Mais alguns ajustes
+e logo sera feita a finalizacao e voce podera utilizar seu novo 
+sistema operacional.
